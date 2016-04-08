@@ -1,0 +1,29 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "A TODO bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdelrod/todo.git"
+  },
+  "keywords": [
+    "todo",
+    "discord"
+  ],
+  "author": "Jared Allard <jaredallard@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdelrod/todo/issues"
+  },
+  "homepage": "https://github.com/rdelrod/todo#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "discord.io": "^1.8.1",
+    "moment": "^2.12.0",
+    "orchestrate": "^0.8.0"
+  }
+}
